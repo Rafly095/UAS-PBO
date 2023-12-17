@@ -79,10 +79,12 @@ if __name__ == "__main__":
 
 **Luaran Yang Dihasilkan :**
 
-- Gambar Sebelum Dilakukan Blur : 
+- Gambar Sebelum Dilakukan Blur :
+
 ![alt text](GoYoonJung.jpeg?raw=true)
 
-- Gambar Sesudah Dilakukan Blur : 
+- Gambar Sesudah Dilakukan Blur :
+
 ![alt text](GoYoonJungBlur.png?raw=true)
 
 **Penjelasan Kode :**
