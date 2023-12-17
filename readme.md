@@ -87,6 +87,10 @@ if __name__ == "__main__":
 
 ![alt text](GoYoonJungBlur.png?raw=true)
 
+- Gambar Tampilan Kode Berhasil Dijalankan Di Visual Studio Code :
+
+![alt text](Tampilan_Kode_Berhasil_Dijalankan.png?raw=true)
+
 **Penjelasan Kode :**
 
 **1. Import Library**
